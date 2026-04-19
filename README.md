@@ -1,4 +1,4 @@
-# 🚀 LuKuai - 免费AI对话聚合平台
+# 🚀 LuKuai - 免费AI对话聊天聚合网站
 
 LuKuai 是一个一站式 AI 对话聊天网站，支持全球多种热门主流 AI 模型，让你无需频繁切换网站，即可使用不同 AI 对话功能。
 
@@ -11,10 +11,10 @@ LuKuai 是一个一站式 AI 对话聊天网站，支持全球多种热门主流
 ## ✨ 功能特点
 
 - 🤖 支持 50+ AI 模型  
-  包括 ChatGPT、Claude、Gemini、Grok、通义千问等数十款付费模型和免费模型！
+  包括 ChatGPT、Claude、Gemini、Grok、通义千问等上百款付费模型和免费模型！
 
 - 🔄 多模型自由切换  
-  一个界面即可体验不同 AI
+  一个网站界面即可体验不同 AI
 
 - ⚡ 高效稳定  
   优化请求速度与响应体验
@@ -27,7 +27,7 @@ LuKuai 是一个一站式 AI 对话聊天网站，支持全球多种热门主流
   - 科研  
 
 - 🌐 国内可用  
-  不需要复杂的网络配置即可访问，无需翻墙，无需VPN即可使用
+  不需要复杂的网络配置即可访问，无需翻墙，无需VPN，电脑+手机同步访问
 
 ---
 
@@ -38,25 +38,25 @@ LuKuai 是一个一站式 AI 对话聊天网站，支持全球多种热门主流
 
 ---
 
-## 🆓 免费模型完整列表（持续更新）
+## 🆓 免费模型完整列表（持续更新中）
 
 > ⚠️ 注意：免费模型会动态调整，部分模型可能限速或临时下线
 
 ---
 
-### 🧠 GPT / OSS 系列
+### 🧠 GPT / OSS 系列AI模型
 - GPT-OSS 20B（免费）
 - GPT-OSS 120B（免费）
 
 ---
 
-### 🦙 LLaMA 系列（Meta）
+### 🦙 LLaMA 系列AI模型（Meta）
 - LLaMA 3.3 70B（免费）
 - LLaMA 4 17B（视觉）（免费）
 
 ---
 
-### 🟡 Qwen 系列（阿里）
+### 🟡 Qwen 系列AI模型（阿里）
 - Qwen3 32B（免费）
 - Qwen3-VL-Plus（免费）
 - Qwen3.5 Flash（部分免费）
@@ -66,33 +66,33 @@ LuKuai 是一个一站式 AI 对话聊天网站，支持全球多种热门主流
 
 ---
 
-### 🔵 GLM 系列（智谱）
+### 🔵 GLM 系列AI模型（智谱）
 - GLM 4.5 Air（免费）
 - GLM 4.6V Flash（免费）
 - GLM 4.7 Flash（免费）
 
 ---
 
-### 🟢 NVIDIA Nemotron 系列
+### 🟢 NVIDIA Nemotron 系列AI模型
 - Nemotron 3 Super 120B（免费）
 - Nemotron 3 Nano 30B（免费）
 - Nemotron Nano 9B / 12B（免费）
 
 ---
 
-### 🟣 Google 系列
+### 🟣 Google 系列AI模型
 - Gemma 4 26B（免费）
 - Gemini（部分免费）
 
 ---
 
-### 🟠 Groq 系列
+### 🟠 Groq 系列AI模型
 - Groq Mini（免费）
 - Groq Compound（免费）
 
 ---
 
-### 🧪 预览 / 实验模型
+### 🧪 预览 / 实验AI模型
 - Trinity Large Preview（免费）
 
 ---
@@ -105,7 +105,7 @@ LuKuai 是一个一站式 AI 对话聊天网站，支持全球多种热门主流
 ## 📊 免费模型规模说明
 
 - 当前可用免费模型数量：**20~30+**
-- 支持厂商：
+- 支持AI厂商：
   - Google
   - Meta
   - NVIDIA
